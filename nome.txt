@@ -1,0 +1,3 @@
+Fazendo exercicio do módulo GIT
+
+Inclui arquivo nome.txt com meu nome completo "Fabio Luiz Ramos Costa"
